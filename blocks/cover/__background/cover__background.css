@@ -1,0 +1,5 @@
+.cover__background{
+  background:rgb(42, 44, 47);
+  opacity: 0.3;
+  z-index: 1;
+}
