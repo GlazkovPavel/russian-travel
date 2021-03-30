@@ -5,10 +5,9 @@ font-size: 72px;
 line-height: 76px;
 text-align: center;
 color: #FFFFFF;
-width: 40%;
+width: 51.25%;
 align-self: center;
-z-index: 1;
-padding-top: 200px;
-
-
+margin: 0;
+padding-top: 245px;
+padding-bottom: 32px;
 }
