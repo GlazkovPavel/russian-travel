@@ -2,3 +2,8 @@
   display: flex;
   flex-direction: row;
 }
+@media(max-width: 320px) {
+  .place__image-container{
+    flex-direction: column;
+  }
+}

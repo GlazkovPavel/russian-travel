@@ -1,7 +1,13 @@
 .intro{
-  display: flex;
-  margin: auto;
+  
+  margin: 0 auto;
   flex-direction: column;
   justify-content: flex-start;
   
+}
+
+@media (max-width: 768px) {
+  .intro {
+    justify-content: center;
+  }
 }
