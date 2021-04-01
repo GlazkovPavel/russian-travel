@@ -6,3 +6,11 @@
   text-align: right;
   color: #FFFFFF;
 }
+
+@media(max-width: 320px) {
+  .footer__copyright_author{
+    text-align: start;
+    margin: 0;
+    padding-top: 16px;
+  }
+}

@@ -30,6 +30,8 @@
   .photo-grid {
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: repeat(12, 1fr);
+    margin-bottom: 14px;
+    padding-bottom: 0;
   }
 
 }

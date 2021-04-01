@@ -5,3 +5,8 @@
   object-position: 0px 0px;
   
 }
+@media(max-width: 320px) {
+  .place__image-container{
+    
+  }
+}

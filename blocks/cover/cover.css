@@ -2,3 +2,8 @@
   padding: 92px 48px 0;
   
 }
+@media(max-width: 320px) {
+  .cover{
+    padding: 66px 0px 64px;
+  }
+}
