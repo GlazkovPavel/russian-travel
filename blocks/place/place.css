@@ -1,4 +1,4 @@
-.places{
+.place{
   display: flex;
   flex-direction: column;
   max-width: 984px;
