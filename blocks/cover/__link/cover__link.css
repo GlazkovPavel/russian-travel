@@ -20,3 +20,6 @@
   opacity: 0.3;
   z-index: -1;
 }
+.cover__link:hover::after{
+  opacity: 0.8;
+}
