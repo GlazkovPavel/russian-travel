@@ -7,3 +7,8 @@
     padding: 66px 0px 64px;
   }
 }
+@media(max-width: 1024px) {
+  .cover{
+    padding: 92px 0px 0px;
+  }
+}

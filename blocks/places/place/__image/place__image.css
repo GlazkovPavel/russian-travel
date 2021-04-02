@@ -5,8 +5,9 @@
   object-position: 0px 0px;
   
 }
-@media(max-width: 320px) {
-  .place__image-container{
-    
+@media(max-width: 768px) {
+  .place__image{
+    max-width: 340px;
+    max-height: 340px;
   }
 }
