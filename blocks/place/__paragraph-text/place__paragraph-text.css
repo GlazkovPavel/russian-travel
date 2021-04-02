@@ -1,4 +1,4 @@
-.place__paragraph_text{
+.place__paragraph-text{
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -8,17 +8,17 @@
 }
 
 @media(max-width: 768px) {
-  .place__paragraph_text{
+  .place__paragraph-text{
     font-size: 16px;
 
   }
 }
 @media(max-width: 320px) {
-  .place__paragraph_text{
+  .place__paragraph-text{
     margin: 32px 0 0;
 
   }
-  .place__paragraph_text:last-of-type{
+  .place__paragraph-text:last-of-type{
     margin: 25px 0 0;
   }
 }
