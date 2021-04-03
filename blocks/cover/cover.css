@@ -2,13 +2,14 @@
   padding: 92px 48px 0;
   
 }
-@media(max-width: 320px) {
-  .cover{
-    padding: 66px 0px 64px;
-  }
-}
 @media(max-width: 1024px) {
   .cover{
     padding: 92px 0px 0px;
   }
 }
+@media(max-width: 320px) {
+  .cover{
+    padding: 66px 0px 64px;
+  }
+}
+
