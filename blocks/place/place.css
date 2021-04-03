@@ -3,6 +3,7 @@
   flex-direction: column;
   max-width: 984px;
   margin: auto;
+  overflow: hidden;
 }
 
 @media(max-width: 1024px) {
@@ -15,5 +16,12 @@
   .place{
     padding-left: 24px;
     padding-right: 24px;
+  }
+}
+@media(max-width: 320px) {
+  .place{
+    margin: 0;
+    padding: 0;
+
   }
 }

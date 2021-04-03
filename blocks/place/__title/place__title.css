@@ -5,8 +5,9 @@
   font-size: 72px;
   line-height: 76px;
   color: #FFFFFF;
-  width: 460px;
+  width: 50%;
   margin-bottom: 40px;
+  padding-right: 40px;
 }
 
 @media (max-width: 768px){
@@ -21,9 +22,10 @@
   .place__title {
     font-size: 32px;
     line-height: 35px;
-    width: 288px;
+    width: 100%;
     margin-left: 16px;
     margin-top: 50px;
-    margin-bottom: 32px; 
+    margin-bottom: 32px;
+    padding-right: 0; 
   }
 }

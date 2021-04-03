@@ -5,7 +5,9 @@
   font-size: 18px;
   line-height: 163%;
   color: #FFFFFF;
-  margin: 0 0 26px 40px;
+  margin: 0 0 26px 0px;
+  
+  
 }
 
 @media(max-width: 768px) {
@@ -17,6 +19,8 @@
 @media(max-width: 320px) {
   .place__paragraph-text{
     margin: 32px 0 0;
+    padding-right: 16px;
+    padding-left: 16px;
 
   }
   .place__paragraph-text:last-of-type{
