@@ -17,9 +17,7 @@
     line-height: 20px; 
   }
 }
-.header__lang-link:hover{
-  /* ext-decoration: underline */
-}
+
 .header__lang-link::after { 
   content: "";
   position: absolute;

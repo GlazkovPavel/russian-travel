@@ -7,3 +7,6 @@
   line-height: 18px;
   color: #FFFFFF;
 }
+.footer__column-link:hover{
+  opacity: 0.8;
+}

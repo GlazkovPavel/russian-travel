@@ -4,6 +4,8 @@
   align-items: center;
   padding-top: 64px;
   margin: 0;
+  width: 100%;
+  overflow: hidden;
   
 }
 
