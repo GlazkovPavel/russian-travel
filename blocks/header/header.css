@@ -2,7 +2,9 @@
   background-color: #2A2C2F;
   display: flex;
   justify-content: space-between;
-  padding: 28px 48px 0;
+  padding: 28px 0 0;
+  max-width: 1184px;
+  margin: 0 auto;
 }
 
 @media screen and (max-width: 768px) {

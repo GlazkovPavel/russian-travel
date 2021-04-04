@@ -7,11 +7,18 @@
   text-align: right;
   color: #FFFFFF;
 }
-
+@media(max-width: 690px) {
+  .footer__copyright{
+    align-self: flex-end;
+  }
+}
 @media(max-width: 320px) {
   .footer__copyright{
     text-align: start;
     margin: 0;
-    padding-top: 16px;
+    padding-top: 28px;
+    font-size: 14px;
+    line-height: 14px;
+    align-self: flex-start;
   }
 }

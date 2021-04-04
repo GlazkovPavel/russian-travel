@@ -1,7 +1,8 @@
 .intro__item{
-  margin-left: 11.56%;
+  max-width: 984px;
   display: flex;
   flex-direction: column;
+  margin: 0 auto;
 }
 
 @media (max-width: 1024px) {
