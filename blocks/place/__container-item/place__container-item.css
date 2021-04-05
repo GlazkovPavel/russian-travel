@@ -4,7 +4,7 @@
   justify-content: space-between;
   
 }
-@media(max-width: 320px) {
+@media(max-width: 560px) {
   .place__container-item{
     flex-direction: column;
   }

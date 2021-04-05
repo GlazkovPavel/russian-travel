@@ -18,7 +18,7 @@
     padding-right: 24px;
   }
 }
-@media(max-width: 320px) {
+@media(max-width: 560px) {
   .place{
     margin: 0;
     padding: 0;
